@@ -8,10 +8,8 @@ namespace UserAPI.Models
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
-        public string? id { get; set; }
-
-        public string? email { get; set; }
-
+        public string id { get; set; }
+        public string email { get; set; }
         [BsonElement("Activities")]
         public List<int> activityIds { get; set; } = null!;
     }

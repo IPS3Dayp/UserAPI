@@ -45,5 +45,13 @@ namespace UserAPI.Services
             await _userCollection.UpdateOneAsync(filter, update);
             return;
         }
+
+        public async Task<User> GetUserByEmailAsync(string email)
+        {
+            var filter = Builders<User>.Filter.Eq("email", email);
+
+            var user = await _userCollection.Find(filter).FirstOrDefaultAsync();
+            return user;
+        }
     }
 }

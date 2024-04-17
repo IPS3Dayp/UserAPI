@@ -35,6 +35,16 @@ namespace userAPI.Controllers
             return Ok(ActivityIds);
         }
 
+        [HttpGet("email/{email}")]
+        public async Task<ActionResult<User>> GetUserByEmail(string email)
+        {
+            var user = await _mongoDBService.GetUserByEmailAsync(email);
+            if (user == null)
+                return NotFound();
+
+            return Ok(user);
+        }
+
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] User user)
         {
