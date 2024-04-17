@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\S3\\IP\\UserAPI\\",
+  "WorkspaceRootPath": "C:\\Code\\S3\\Individual\\UserAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\ip\\userapi\\userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\ip\\userapi\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\ip\\userapi\\userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\ip\\userapi\\userapi\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\ip\\userapi\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\ip\\userapi\\userapi\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "UserAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwB8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:46:50.928Z",
               "EditorCaption": ""
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MongoDBSettings.cs",
-              "DocumentMoniker": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Models\\MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "UserAPI\\Models\\MongoDBSettings.cs",
-              "ToolTip": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Models\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\MongoDBSettings.cs",
               "RelativeToolTip": "UserAPI\\Models\\MongoDBSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "UserAPI\\Models\\User.cs",
-              "ToolTip": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\User.cs",
               "RelativeToolTip": "UserAPI\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MongoDBService.cs",
-              "DocumentMoniker": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Services\\MongoDBService.cs",
+              "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Services\\MongoDBService.cs",
               "RelativeDocumentMoniker": "UserAPI\\Services\\MongoDBService.cs",
-              "ToolTip": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Services\\MongoDBService.cs",
+              "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Services\\MongoDBService.cs",
               "RelativeToolTip": "UserAPI\\Services\\MongoDBService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,11 +93,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Program.cs",
               "RelativeDocumentMoniker": "UserAPI\\Program.cs",
-              "ToolTip": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\Program.cs",
+              "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Program.cs",
               "RelativeToolTip": "UserAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:39:15.292Z",
               "EditorCaption": ""
@@ -106,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\appsettings.json",
               "RelativeDocumentMoniker": "UserAPI\\appsettings.json",
-              "ToolTip": "C:\\code\\S3\\IP\\UserAPI\\UserAPI\\appsettings.json",
+              "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\appsettings.json",
               "RelativeToolTip": "UserAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
