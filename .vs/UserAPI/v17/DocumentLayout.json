@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +15,19 @@
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DayPlanner/True/SqlTable/dbo.PlannedActivities.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|c:\\code\\s3\\individual\\userapi\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9458B9-8446-49E9-B0A2-DE9E296D3377}|UserAPI\\UserAPI.csproj|solutionrelative:userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +37,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.PlannedActivities [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DayPlanner/True/SqlTable/dbo.PlannedActivities.sql",
+              "ToolTip": "dbo.PlannedActivities [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T12:43:42.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,14 +61,14 @@
               "RelativeDocumentMoniker": "UserAPI\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "UserAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwB8AAAAkAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T12:46:50.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "UserAPI\\Models\\MongoDBSettings.cs",
@@ -63,35 +76,38 @@
               "RelativeToolTip": "UserAPI\\Models\\MongoDBSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:42:13.332Z"
+              "WhenOpened": "2024-03-26T12:42:13.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "UserAPI\\Models\\User.cs",
               "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Models\\User.cs",
               "RelativeToolTip": "UserAPI\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:42:01.099Z"
+              "WhenOpened": "2024-03-26T12:42:01.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MongoDBService.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Services\\MongoDBService.cs",
               "RelativeDocumentMoniker": "UserAPI\\Services\\MongoDBService.cs",
               "ToolTip": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Services\\MongoDBService.cs",
               "RelativeToolTip": "UserAPI\\Services\\MongoDBService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T12:41:06.4Z"
+              "WhenOpened": "2024-03-26T12:41:06.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\Program.cs",
               "RelativeDocumentMoniker": "UserAPI\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Code\\S3\\Individual\\UserAPI\\UserAPI\\appsettings.json",
               "RelativeDocumentMoniker": "UserAPI\\appsettings.json",
@@ -112,7 +128,8 @@
               "RelativeToolTip": "UserAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-26T12:35:46.225Z"
+              "WhenOpened": "2024-03-26T12:35:46.225Z",
+              "EditorCaption": ""
             }
           ]
         }
